@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="singleton.SingletonTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2022-07-02T04:49:22" hostname="repickui-MacBookPro.local" time="0.008">
+  <properties/>
+  <testcase name="singleton()" classname="singleton.SingletonTest" time="0.008"/>
+  <system-out><![CDATA[두개의 객체가 동일한가?
+true
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
