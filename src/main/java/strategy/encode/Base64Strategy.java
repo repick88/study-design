@@ -1,4 +1,4 @@
-package strategy;
+package strategy.encode;
 
 import java.util.Base64;
 

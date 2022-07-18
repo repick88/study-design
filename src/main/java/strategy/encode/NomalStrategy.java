@@ -1,4 +1,4 @@
-package strategy;
+package strategy.encode;
 
 public class NomalStrategy implements EncodingStrategy{
     @Override
